@@ -1,6 +1,6 @@
-description: UNIUNI02A
+description: 'Universal breadboard PCB for MLAB kit system '
 github_branch: UNIUNI02A
-github_description: UNIUNI02A
+github_description: 'Universal breadboard PCB for MLAB kit system '
 github_repo: UNIUNI02
 github_url: https://github.com/mlab-modules/UNIUNI02
 homepage: false
@@ -9,6 +9,8 @@ images:
 - doc/img/UNIUNI02A_QRcode.png
 mark: 50
 status: 0
-tags: []
+tags:
+- breadboard
+- mlab-module
 title: UNIUNI02
-updated: '2023-09-17T11:47:15.112054+00:00'
+updated: '2024-05-15T11:20:24.191854+00:00'
