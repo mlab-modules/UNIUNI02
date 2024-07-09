@@ -16,5 +16,4 @@ UNIUNI02A is a universal printed circuit board (PCB) with a 2.54mm pitch, design
 
 ## Purchase Information
 
-You can purchase the UNIUNI02A PCB from the following link: [UNIUNI02A on Tindie]()
-
+You can purchase the UNIUNI02A PCB from the following link: [UNIUNI02A on Tindie](https://www.tindie.com/products/35138/)
